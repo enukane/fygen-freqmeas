@@ -1,0 +1,3 @@
+[submodule "fygen"]
+	path = fygen
+	url = https://github.com/mattwach/fygen.git
